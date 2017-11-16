@@ -22,5 +22,5 @@ mod 'testrepo',
   :branch => 'master'
 
 mod 'apache',
-  :git => 'https://github.com/pcpuppet/apache.git'
+  :git => 'https://github.com/pcpuppet/apache.git',
   :branch => 'master'
